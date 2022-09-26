@@ -4,6 +4,6 @@ This repository contains datasets that are already deployed on Super Protocol an
 
 |Datasets|Description|
 | :- | :- |
-|[Image Classification Datasets](./Image%Classification%20Datasets)|Photos compatible with [Image Classification solution](https://github.com/Super-Protocol/solutions/tree/main/Image%20Classification).|
 |[Face Recognition Datasets](./Face%20Recognition%20Datasets)|Photos compatible with [Face Recognition solution](https://github.com/Super-Protocol/solutions/tree/main/Face%20Recognition).|
-|[Speech Recognition](./Speech%20Recognition)|Audio files compatible with [Speech Recognition solution](https://github.com/Super-Protocol/solutions/tree/main/Speech%20Recognition).|
+|[Image Classification Datasets](./Image%20Classification%20Datasets)|Photos compatible with [Image Classification solution](https://github.com/Super-Protocol/solutions/tree/main/Image%20Classification).|
+|[Speech Recognition Datasets](./Speech%20Recognition%20Datasets)|Audio files compatible with [Speech Recognition solution](https://github.com/Super-Protocol/solutions/tree/main/Speech%20Recognition).|
