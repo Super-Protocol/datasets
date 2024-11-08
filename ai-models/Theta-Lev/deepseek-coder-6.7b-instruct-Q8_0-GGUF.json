@@ -1,0 +1,18 @@
+{
+  "attributes": {
+      "models": [
+        {
+          "languages": [],
+          "libraries": [
+            "unknown"
+          ],
+          "license": "other",
+          "task": {
+            "id": "000001",
+            "pipelineType": "Text Generation"
+          }
+        }
+      ],
+      "datasets": []
+  }
+}

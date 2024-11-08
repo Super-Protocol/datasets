@@ -1,0 +1,20 @@
+{
+  "attributes": {
+      "models": [
+        {
+          "languages": [
+            "eng"
+          ],
+          "libraries": [
+            "GGUF"
+          ],
+          "license": "apache-2.0",
+          "task": {
+            "id": "000001",
+            "pipelineType": "Text Generation"
+          }
+        }
+      ],
+      "datasets": []
+  }
+}

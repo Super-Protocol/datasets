@@ -1,0 +1,43 @@
+{
+  "attributes": {
+      "models": [
+        {
+          "languages": [
+            "eng",
+            "fra",
+            "deu",
+            "spa",
+            "ita",
+            "por",
+            "jpn",
+            "kor",
+            "zho",
+            "ara",
+            "ell",
+            "fas",
+            "pol",
+            "ind",
+            "ces",
+            "heb",
+            "hin",
+            "nld",
+            "ron",
+            "rus",
+            "tur",
+            "ukr",
+            "vie"
+          ],
+          "libraries": [
+            "Transformers",
+            "GGUF"
+          ],
+          "license": "cc-by-nc-4.0",
+          "task": {
+            "id": "000001",
+            "pipelineType": ""
+          }
+        }
+      ],
+      "datasets": []
+  }
+}

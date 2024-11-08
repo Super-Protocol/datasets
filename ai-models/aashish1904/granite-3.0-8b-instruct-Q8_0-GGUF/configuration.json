@@ -1,0 +1,19 @@
+{
+  "attributes": {
+    "models": [
+      {
+        "languages": [],
+        "libraries": [
+          "Transformers",
+          "GGUF"
+        ],
+        "license": "apache-2.0",
+        "task": {
+          "id": "000001",
+          "pipelineType": "Text Generation"
+        }
+      }
+    ],
+    "datasets": []
+  }
+}

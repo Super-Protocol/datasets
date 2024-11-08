@@ -1,0 +1,19 @@
+{
+  "attributes": {
+      "models": [
+        {
+          "languages": [],
+          "libraries": [
+            "Transformers",
+            "GGUF"
+          ],
+          "license": "gemma",
+          "task": {
+            "id": "000001",
+            "pipelineType": "Text Generation"
+          }
+        }
+      ],
+      "datasets": []
+  }
+}

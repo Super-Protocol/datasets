@@ -1,0 +1,62 @@
+{
+  "attributes": {
+      "models": [
+        {
+          "languages": [
+            "aka",
+            "ara",
+            "asm",
+            "bam",
+            "ben",
+            "cat",
+            "eng",
+            "spa",
+            "eus",
+            "fon",
+            "fra",
+            "guj",
+            "hin",
+            "ind",
+            "ibo",
+            "kik",
+            "kan",
+            "lug",
+            "lin",
+            "mal",
+            "mar",
+            "nep",
+            "nso",
+            "ori",
+            "pan",
+            "por",
+            "kin",
+            "sna",
+            "sot",
+            "swa",
+            "tam",
+            "tel",
+            "tsn",
+            "tso",
+            "tum",
+            "twi",
+            "urd",
+            "vie",
+            "wol",
+            "xho",
+            "yor",
+            "zho",
+            "zul"
+          ],
+          "libraries": [
+            "GGUF"
+          ],
+          "license": "bigscience-bloom-rail-1.0",
+          "task": {
+            "id": "000001",
+            "pipelineType": "Text Generation"
+          }
+        }
+      ],
+      "datasets": []
+  }
+}

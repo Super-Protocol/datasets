@@ -1,0 +1,25 @@
+{
+  "hash": {
+    "algo": "sha256",
+    "encoding": "hex",
+    "hash": "d960d1c990ed64dc29282c2e174802bdb545af7972325e22ebb83bf04f527764"
+  },
+  "encryption": {
+    "algo": "AES",
+    "encoding": "base64",
+    "cipher": "aes-256-gcm",
+    "iv": "4BoFwtvVOEUlzwJY",
+    "mac": "XgEZ5ARrmfBLTmR469L4ag==",
+    "key": "f3Aa9EmZIsL3gvuBYAYCKNhV2drfOiUqrtALJGxilNo="
+  },
+  "resource": {
+    "type": "STORAGE_PROVIDER",
+    "storageType": "STORJ",
+    "filepath": "pytorch_model.bin.tar.gz.encrypted",
+    "credentials": {
+      "token": "1254Tbtm1AtsAjoLcWfCrM43HRXHtTffVEMkqC73k6eErGk37shZdbP4cJ7cHBdNLvTfDqV771R8JuXwJXefvuwfcdRZ1SSLfB2jRb3Wrg2F5gBLQTUXDLNwpjommS7PebE65nS8nxtGsAmAZfsciQuXCjxCBFuY8xsoQTU3m2ABtNnSLkN69VAwop2FdCpUFuEQKsyp55QSNjbkiuYDe5C2SEiikMsEvXn5yU5UW38k2doMRqHZy87UDDW6HBRxidxxcMZ2nYa6JsFo86KcbWabdM3WDtVaEKxCoLmrDQJzVTViCXPCEWaBuuZoRc1qm9AjoBGutMGMdgsibmi12MAK4cTaXS8BvmzuJiTLLar7zxgXyYD9raCoK2f7HExD4vitzi7nVoRszSomWTnNMekQ3oUExrwdL5NQbtpFFJRrRCAnxpgLQJYcDLjJ1c5MxVQzrs8ifSpb7q2XjBhXRrGU92TFgRLzdBePtC",
+      "bucket": "offers-dev",
+      "prefix": ""
+    }
+  }
+}

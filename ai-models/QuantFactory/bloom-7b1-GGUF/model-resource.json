@@ -1,0 +1,25 @@
+{
+  "hash": {
+    "algo": "sha256",
+    "encoding": "hex",
+    "hash": "cac29a7aca4f2b366699efea945b3696cdefda99c34ce681813b8dc4a572d491"
+  },
+  "encryption": {
+    "algo": "AES",
+    "encoding": "base64",
+    "cipher": "aes-256-gcm",
+    "iv": "Qls+RsJcaezQ75qs",
+    "mac": "MhGU4n8+CXKQ7QN04EsSaQ==",
+    "key": "cb8Mz5N7H/uVvONfyGphJB8vBoLk0N16CMzHx9UrVI0="
+  },
+  "resource": {
+    "type": "STORAGE_PROVIDER",
+    "storageType": "STORJ",
+    "filepath": "bloom-7b1.Q8_0.gguf.tar.gz.encrypted",
+    "credentials": {
+      "token": "1254Tbtm1AtsAjoLcWfCrM43HRXHtTffVEMkqC73k6eErGk37shZdbP4cJ7cHBdNLvTfDqV771R8JuXwJXefvuwfcdRZ1SSLfB2jRb3Wrg2F5gBLQTUXDLNwpjommS7PebE65nS8nxtGsAmAZfsciQuXCjxCBFuY8xsoQTU3m2ABtNnSLkN69VAwop2FdCpUFuEQKsyp55QSNjbkiuYDe5C2SEiikMsEvXn5yU5UW38k2doMRqHZy87UDDW6HBRxidxxcMZ2nYa6JsFo86KcbWabdM3WDtVaEKxCoLmrDQJzVTViCXPCEWaBuuZoRc1qm9AjoBGutMGMdgsibmi12MAK4cTaXS8BvmzuJiTLLar7zxgXyYD9raCoK2f7HExD4vitzi7nVoRszSomWTnNMekQ3oUExrwdL5NQbtpFFJRrRCAnxpgLQJYcDLjJ1c5MxVQzrs8ifSpb7q2XjBhXRrGU92TFgRLzdBePtC",
+      "bucket": "offers-dev",
+      "prefix": ""
+    }
+  }
+}
